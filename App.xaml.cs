@@ -12,5 +12,9 @@ namespace DomuBackup
     /// </summary>
     public partial class App : Application
     {
+        public void readFile()
+        {
+            
+        }
     }
 }
